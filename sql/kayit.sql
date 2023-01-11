@@ -40,16 +40,9 @@ CREATE TABLE `kayit` (
 --
 
 INSERT INTO `kayit` (`kayit_id`, `kayit_kadi`, `kayit_adi`, `kayit_soyadi`) VALUES
-(1, 'hasan-a', 'Hasan', 'Paşa'),
-(2, 'cano', 'can', 'can'),
-(3, 'jojo', 'Şoreş', 'şoşo'),
-(4, 'firo', 'Fırat', 'fılfılok'),
-(5, 'umose', 'Ümit', 'Ümoo'),
-(6, 'sakir', 'Özgur', 'Şakir'),
-(7, 'baweriko', 'Baver', 'Mehmet'),
-(8, 'ofy', 'Omer', 'Faruk'),
-(9, 'hosseini', 'Hüseyin', 'Husein'),
-(10, 'oniiir', 'Onur', 'Çiçekçi');
+(1, 'kadi1', 'kullanıcı', 'bir'),
+(2, 'kadi2', 'kullanıcı', 'iki'),
+(3, 'kadi3', 'kullanıcı', 'üç');
 
 --
 -- Dökümü yapılmış tablolar için indeksler
