@@ -1,0 +1,30 @@
+.ders-menu {
+    margin-top: 13px !important;
+    margin-bottom: 13px !important;
+ }
+
+ h1 {
+    font-size: 1.5em !important;
+    background: linear-gradient(20deg, rgb(0, 255, 0) 0%, rgba(255, 0, 0) 35%, rgb(255, 241, 47, 0.959) 100% ) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endColorstr="#00d4ff",GradientType=1) !important;
+    color:white !important;
+    padding: 5px;
+ }
+
+ h4 {
+   background: rgb(107, 103, 177) !important;
+   background: linear-gradient(20deg, rgb(89, 199, 221) 0%, rgba(155, 31, 212, 0.573) 35%, rgb(147, 233, 50) 100% ) !important;
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endColorstr="#00d4ff",GradientType=1) !important;
+   color:white !important;
+   padding: 5px;
+}
+
+.selectablekullanimi .ui-selecting {
+   background-color:#af2165;
+   color:black;
+}
+
+.selectablekullanimi .ui-selected {
+   background-color:#2ac9ae;
+   color:black;
+}
